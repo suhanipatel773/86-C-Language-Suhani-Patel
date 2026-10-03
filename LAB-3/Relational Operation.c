@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main ()
 {
+    printf("suhani patel");
     int a,b,c;
     a=40;
     b=8;
