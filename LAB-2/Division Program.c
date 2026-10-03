@@ -6,6 +6,6 @@ int main ()
     a=1545;
     b=65;
     c=a/b;
-    printf("%d",c);
+    printf("\n%d",c);
     return 0;
 }
