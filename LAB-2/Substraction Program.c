@@ -8,3 +8,4 @@ int main ()
     c=a-b;
     printf("\n%d",c);
     return 0;
+}
