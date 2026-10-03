@@ -1,9 +1,10 @@
 #include <stdio.h>
 int main ()
 {
+    printf("suhani patel");
     int A=5,B=10;
     int C;
-    printf("A=%d and B=%d",A,B);
+    printf("\nA=%d and B=%d",A,B);
     C=A;
     A=B;
     B=C;
