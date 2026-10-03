@@ -5,10 +5,10 @@ int main ()
     a=40;
     b=8;
     c=a+b;
-    printf("%d",a>b);
-    printf("\n%d",b>c);
-    printf("\n%d",c<=a+b);
-    printf("\n%d",c!=a+b);
-    printf("\n%d",c>b);
+    printf("\n%d",a>b);
+    printf("%d",b>c);
+    printf("%d",c<=a+b);
+    printf("%d",c!=a+b);
+    printf("%d",c>b);
     return 0;
 }
